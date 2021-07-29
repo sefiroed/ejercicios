@@ -1,0 +1,20 @@
+[
+    {
+        "modelo": "Ford_Fiesta",
+        "precio": 500000.50,
+        "referencia": "http://mercadolibre.com/productos/auto/modelo/ford"
+    },
+    {
+        "modelo": "Renolt_Clio",
+        "precio": 430000.56,
+        "referencia": "http://mercadolibre.com/auto/modelo/renolt"
+    },
+    {
+        "modelo": "Toyota_Corolla",
+        "precio": 970000.67,
+        "referencia": "http://mercadolibre.com/auto/modelo/toyota"
+    } 
+]
+
+
+
